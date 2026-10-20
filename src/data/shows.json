@@ -1,0 +1,74 @@
+[
+  {
+    "id": "show-1",
+    "title": "Staring Intensely at an Unfinished Excel Sheet: S2 E4",
+    "broadcastTime": "3:15 AM - 3:18 AM",
+    "category": "Existential Dread / Productivity",
+    "urgencyIndex": "CRITICAL: Do Not Blink",
+    "description": "A live-action thriller where a protagonist hovers cell C14 for 45 minutes, questioning every career choice that led to VLOOKUP.",
+    "suitableMoods": ["Procrastinating", "Existential Crisis", "Hyper-Focused"]
+  },
+  {
+    "id": "show-2",
+    "title": "Late Night Arguments with an Empty Refrigerator",
+    "broadcastTime": "3:19 AM - 3:45 AM",
+    "category": "Culinary Despair",
+    "urgencyIndex": "HIGH: Light Bulb Flickering",
+    "description": "Opening the door for the 7th time expecting pizza to magically materialize. Features dramatic close-ups of half a jar of mustard.",
+    "suitableMoods": ["Numb & Glaring at Ceiling", "Procrastinating", "Snack Deprived"]
+  },
+  {
+    "id": "show-3",
+    "title": "Extreme Microwave Countdown Watching Championship",
+    "broadcastTime": "3:45 AM - 4:00 AM",
+    "category": "High Stakes Athletics",
+    "urgencyIndex": "MAXIMUM: Stop at 0:01",
+    "description": "World-class elite athletes attempt to stop the microwave timer at exactly 0:01 before the midnight beep wakes the entire neighborhood.",
+    "suitableMoods": ["Adrenaline Rush", "Hyper-Focused", "Procrastinating"]
+  },
+  {
+    "id": "show-4",
+    "title": "The Art of Reading Terms & Conditions Word for Word",
+    "broadcastTime": "4:00 AM - 4:30 AM",
+    "category": "ASMR / Hypnosis",
+    "urgencyIndex": "LOW: Immediate Sleep Guaranteed",
+    "description": "Narrated in a soothing monotone voice, a lawyer reads 148 pages of software license agreements. Cure for insomnia in 3 minutes.",
+    "suitableMoods": ["Numb & Glaring at Ceiling", "Existential Crisis"]
+  },
+  {
+    "id": "show-5",
+    "title": "Deciding What to Watch Next: The 4-Hour Docuseries",
+    "broadcastTime": "4:30 AM - 8:30 AM",
+    "category": "Meta-Paralysis",
+    "urgencyIndex": "URGENT: Decision Paralysis Imminent",
+    "description": "A gripping documentary about scrolling through streaming service carousels endlessly without ever pressing Play.",
+    "suitableMoods": ["Procrastinating", "Numb & Glaring at Ceiling", "Chaos Seeking"]
+  },
+  {
+    "id": "show-6",
+    "title": "Unread Slack Messages: The Horror Anthology",
+    "broadcastTime": "8:30 AM - 9:00 AM",
+    "category": "Workplace Terror",
+    "urgencyIndex": "ALERT: Red Notification Dot",
+    "description": "A jump-scare mini-series where the red ping sound effect echoes in pitch darkness while a supervisor types 'Can we chat quick?'",
+    "suitableMoods": ["Existential Crisis", "Adrenaline Rush"]
+  },
+  {
+    "id": "show-7",
+    "title": "Fixing CSS Centering at 4 AM: Live Stream",
+    "broadcastTime": "9:00 AM - 9:15 AM",
+    "category": "Technical Meltdown",
+    "urgencyIndex": "ELEVATED: margin: auto Failed",
+    "description": "Watch a developer try `display: flex`, `place-items: center`, and `margin-top: -999px` in real time despair.",
+    "suitableMoods": ["Hyper-Focused", "Existential Crisis"]
+  },
+  {
+    "id": "show-8",
+    "title": "Simulated Ceiling Tile Counting Championship 2025",
+    "broadcastTime": "9:15 AM - 10:00 AM",
+    "category": "Zen & Mindlessness",
+    "urgencyIndex": "MILD: 42 Tiles Found",
+    "description": "Broadcasting 45 minutes of static acoustic ceiling tiles while a commentator whispers the running total with golf-tourney reverence.",
+    "suitableMoods": ["Numb & Glaring at Ceiling", "Snack Deprived"]
+  }
+]

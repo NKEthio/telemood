@@ -1,72 +1,36 @@
-# TeleMood: High-Energy Satirical Program Tracker & Mood Guide for Fire TV
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-> *"Never miss the absurdly specific television moments that fit your exact vibe."*
+## Getting Started
 
-**TeleMood** is a lightweight, high-energy 10-foot UI app engineered for Amazon Fire TV (Fire OS/Vega OS webview environments). Inspired by comedic absurdism and the hyper-specific realities of modern television, TeleMood transforms passive TV guide browsing into an interactive, mood-driven viewing itinerary.
+First, run the development server:
 
-## 🌟 Key Features
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-* **10-Foot UI Design:** Native D-pad navigation support (arrow keys + enter) with high-contrast, scalable focused cards designed for living room TV viewing.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-* **Absurdly Specific Program Guide:** Curated, satirical TV schedules highlighting chaotic, niche television events (e.g., *Late Night Arguments with an Empty Refrigerator*).
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-* **The "Mood Itinerary" Engine:** A high-energy recommender that dynamically builds a tailored watch list based on the viewer's current emotional state or energy level.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-* **Low-Resource Architecture:** Fully client-side rendered with zero heavy dependencies—optimized to run smoothly on any TV simulator or low-RAM development machine.
+## Learn More
 
-## 🛠️ Tech Stack
+To learn more about Next.js, take a look at the following resources:
 
-* **Framework:** Next.js / React
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-* **Styling:** Tailwind CSS (Focus state & living room TV contrast optimization)
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-* **Input Controller:** Custom JavaScript D-pad / Keyboard Listener Hook (`ArrowUp`, `ArrowDown`, `ArrowLeft`, `ArrowRight`, `Enter`)
+## Deploy on Vercel
 
-* **Platform Target:** Amazon Fire TV (Fire OS Webview)
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-* Node.js 18.x or higher
-
-* npm or yarn
-
-### Installation & Local Setup
-
-1. **Clone the repository:**
-
-   ```
-   git clone https://github.com/NKEthio/telemood.git
-   cd telemood
-   
-   ```
-
-2. **Install dependencies:**
-
-   ```
-   npm install
-   
-   ```
-
-3. **Run the development server:**
-
-   ```
-   npm run dev
-   
-   ```
-
-4. **Open in Browser / Fire TV Webview Simulator:**
-   Navigate to `http://localhost:3000`. Use your **Keyboard Arrow Keys** and **Enter** key to simulate a Fire TV remote D-pad controller.
-
-## 🎮 Remote Control Layout
-
-* `Arrow Keys`: Move focus between schedule cards and category tabs.
-
-* `Enter`: Open show details or trigger the "Mood Itinerary" generator.
-
-* `Escape` / `Back`: Return to the main grid view.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
